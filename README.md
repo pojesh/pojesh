@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [github.com/pojesh](github.com/pojesh)
 
-- 💬 Ask me about **Flutter**
+- 💬 Ask me about **Android**
 
 - 📫 How to reach me **poji.dev@gmail.com**
 
