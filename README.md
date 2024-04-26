@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/pj10_3000" target="blank"><img src="https://img.shields.io/twitter/follow/pj10_3000?logo=twitter&style=for-the-badge" alt="pj10_3000" /></a> </p>
 
-- 🔭 I’m currently working on **NutriScan**
+- 🔭 I’m currently working on **Object Segmentation with DeepLabV3**
 
 - 🌱 I’m currently learning **Deep Learning and Android Development**
 
