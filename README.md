@@ -7,15 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/pj10_3000" target="blank"><img src="https://img.shields.io/twitter/follow/pj10_3000?logo=twitter&style=for-the-badge" alt="pj10_3000" /></a> </p>
 
-- 🔭 I’m currently working on **Object Segmentation with DeepLabV3**
+- 🔭 I’m currently working on **ImageSR at Samsung Prism and Impact Crater Detection**
 
-- 🌱 I’m currently learning **Deep Learning and Android Development**
+- 🌱 I’m currently learning **MLOPS and BACKEND DEVELOPMENT**
 
 - 👨‍💻 All of my projects are available at [github.com/pojesh](github.com/pojesh)
 
-- 💬 Ask me about **Android**
+- 💬 Ask me about **Android and AI**
 
-- 📫 How to reach me **poji.dev@gmail.com**
+- 📫 How to reach me **rpojesh10@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
