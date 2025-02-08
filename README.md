@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **ImageSR at Samsung Prism**
 
-- 🌱 I’m currently learning **GAME DEVELOPMENT**
+- 🌱 I’m currently learning **UNITY**
 
 - 👨‍💻 All of my projects are available at [github.com/pojesh](github.com/pojesh)
 
