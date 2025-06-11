@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **GenAI at Samsung Prism**
 
-- 🌱 I’m currently learning **MLOPS**
+- 🌱 I’m currently learning **DSA**
 
 - 👨‍💻 All of my projects are available at [github.com/pojesh](github.com/pojesh)
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **rpojesh10@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://vitacin-my.sharepoint.com/:b:/g/personal/pojeshkumar_r2022_vitstudent_ac_in/EVWBORJk0yxGmSMigFXlTagBv8YhJInJfMHiEULxdfSQzQ?e=rZ9hxf)
+- 📄 Know about my experiences [Resume](https://vitacin-my.sharepoint.com/:b:/g/personal/pojeshkumar_r2022_vitstudent_ac_in/EcN4ptDkIm1HtfdSCoMn8QYBQgwBfOc-gu6Y1Ux_Tpg3vA?e=mwSSVd)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
