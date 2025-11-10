@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **rpojesh10@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://vitacin-my.sharepoint.com/:b:/g/personal/pojeshkumar_r2022_vitstudent_ac_in/EdozsgPHcx5Js2QMO3p__bwBDrmTxlsEwcftGIoIyph97A?e=Mr38bh)
+- 📄 Know about my experiences [Resume](https://vitacin-my.sharepoint.com/:b:/g/personal/pojeshkumar_r2022_vitstudent_ac_in/EQMy0XyoiYRKtIZ6URRvmq0BlXbCZnEBgy91TVfIiASFPw?e=GT1QZI)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
