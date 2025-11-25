@@ -1,39 +1,57 @@
 <div align="center">
 
-<h1 align="center">Hi there, I'm Pojesh! 👋</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=FFFFFF&center=true&vCenter=true&lines=Hey%2C++I'm+Pojesh!)](https://git.io/typing-svg)
 
-<!-- Typing SVG Effect -->
 
 <a href="https://git.io/typing-svg">
 </a>
 
-<p align="center">
-<a href="https://twitter.com/pj10_3000">
-</a>
+<p align="left"> 
+ <img src="https://img.shields.io/github/followers/pojesh?color=00C4FF&label=Followers" />
+ <img src="https://img.shields.io/github/stars/pojesh?style=flat&color=00C4FF" />
+ <img src="https://komarev.com/ghpvc/?username=pojesh&color=00C4FF&style=flat" />
 </p>
 </div>
 
 <h3 align="left">👨‍💻 About Me</h3>
 
-🔭 Ex GenAI Intern at Samsung R&D and Ex RPA Dev Intern at UiPath
+🔭 Ex GenAI Intern at Samsung R&D and Ex RPA Intern at UiPath
 
-🌱 I’m currently learning DevOps
+🌱 I’m currently learning **DevOps**
 
-📱 Ask me about AI
+📱 Ask me about **AI**
 
 📄 Know about my experiences: <a href="https://vitacin-my.sharepoint.com/:b:/g/personal/pojeshkumar_r2022_vitstudent_ac_in/EQMy0XyoiYRKtIZ6URRvmq0BlXbCZnEBgy91TVfIiASFPw?e=GT1QZI"><strong>View My Resume</strong></a>
 
-📫 How to reach me: rpojesh10@gmail.com
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/pj10_3000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pj10_3000" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/pojeshkumarr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pojeshkumarr" height="30" width="40" /></a>
-<a href="https://kaggle.com/pojesh10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="pojesh10" height="30" width="40" /></a>
-<a href="https://instagram.com/_poje.sh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_poje.sh" height="30" width="40" /></a>
+## ⚙️ My Tech Stack
+
+<p align="center">
+  <a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,fastapi,linux,windows,docker,aws,gcp,azure,vscode,discord&perline=6" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pojesh&show_icons=true&locale=en&layout=compact" alt="pojesh" /></p>
+## 📊 GitHub Activity
+
+<p align="center">
+  <br />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pojesh&theme=tokyo-night" />
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+<p align="center">
+  <a href="mailto:rpojesh10@gmail.com"><img src="https://brandlogos.net/wp-content/uploads/2020/10/gmail-logo-icon-768x585.png" alt="Gmail" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/pojesh/"><img src="https://brandlogos.net/wp-content/uploads/2025/03/linkedin_icon-logo_brandlogos.net_bqhvb-768x768.png" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://x.com/pj10_3000"><img width="40" height="40" alt="X" src="https://github.com/user-attachments/assets/9146419b-8785-4844-8e1b-928366f0cd15" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://discord.com/channels/@me/godbutcher6400/"><img src="https://brandlogos.net/wp-content/uploads/2021/11/discord-logo-768x768.png" alt="Discord" width="40" height="40"/></a>
+</p>
+
+
+
+
