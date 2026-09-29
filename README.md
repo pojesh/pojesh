@@ -15,13 +15,13 @@
 
 <h3 align="left">👨‍💻 About Me</h3>
 
-🔭 Ex GenAI Intern at Samsung R&D and Ex RPA Intern at UiPath
+🔭 AI Engineer at HCLTech
 
-🌱 I’m currently learning **DevOps**
+🌱 I’m currently learning **Agentic AI**
 
 📱 Ask me about **AI**
 
-📄 Know about my experiences: <a href="https://vitacin-my.sharepoint.com/:b:/g/personal/pojeshkumar_r2022_vitstudent_ac_in/EQMy0XyoiYRKtIZ6URRvmq0BlXbCZnEBgy91TVfIiASFPw?e=GT1QZI"><strong>View My Resume</strong></a>
+📄 Know about my experiences(old): <a href="https://vitacin-my.sharepoint.com/:b:/g/personal/pojeshkumar_r2022_vitstudent_ac_in/EQMy0XyoiYRKtIZ6URRvmq0BlXbCZnEBgy91TVfIiASFPw?e=GT1QZI"><strong>View My Resume</strong></a>
 
 
 ## ⚙️ My Tech Stack
